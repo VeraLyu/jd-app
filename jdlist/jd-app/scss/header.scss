@@ -1,0 +1,15 @@
+@import "common";
+
+.header {
+	width: 35%;
+	img {
+		max-width: 100%;
+	}
+	h5 {
+		text-align: center;
+		font-family: monospace;
+		color: grey;
+	}
+	margin: auto;
+	margin-bottom: 40px;
+}
